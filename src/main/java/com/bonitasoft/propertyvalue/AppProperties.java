@@ -19,7 +19,7 @@ public class AppProperties {
             System.out.println("'simple.old-value' is deprecated, please use 'simple.new-value' instead");
             newValue = oldValue;
         }
-        System.out.println("AppProperties: " + newValue);
+//        System.out.println("AppProperties: " + newValue);
         return newValue;
     }
 

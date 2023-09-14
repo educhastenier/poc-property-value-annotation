@@ -15,6 +15,6 @@ public class MyInjectedProperties {
 
     @PostConstruct
     public void initialize() {
-        System.out.println(properties.getNewValue());
+        System.out.println("Java-injected property: "+ properties.getNewValue());
     }
 }

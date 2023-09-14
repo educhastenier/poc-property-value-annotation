@@ -1,6 +1,5 @@
 package com.bonitasoft.propertyvalue;
 
-
 import java.lang.annotation.Documented;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
